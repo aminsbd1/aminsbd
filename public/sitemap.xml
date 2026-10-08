@@ -3,10 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aminsbd.web.id/</loc>
-  </url><url>
-    <loc>https://aminsbd.web.id/categories/</loc>
+    <lastmod>2026-10-08T13:18:26+07:00</lastmod>
   </url><url>
     <loc>https://aminsbd.web.id/posts/</loc>
+    <lastmod>2026-10-08T13:18:26+07:00</lastmod>
+  </url><url>
+    <loc>https://aminsbd.web.id/posts/about-me/</loc>
+    <lastmod>2026-10-08T13:18:26+07:00</lastmod>
+  </url><url>
+    <loc>https://aminsbd.web.id/categories/</loc>
   </url><url>
     <loc>https://aminsbd.web.id/tags/</loc>
   </url>
