@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Amin SBD</title>
-		<link>https://aminsbd.web.id/posts/</link>
-		<description>Recent content in Posts on Amin SBD</description>
+		<title>Artikel CPNS on Amin SBD</title>
+		<link>https://aminsbd.web.id/categories/artikel-cpns/</link>
+		<description>Recent content in Artikel CPNS on Amin SBD</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Sat, 10 Oct 2026 19:57:00 +0700</lastBuildDate>
 		
-			<atom:link href="https://aminsbd.web.id/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://aminsbd.web.id/categories/artikel-cpns/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>6 Tips Memilih Formasi CPNS 2027 yang Tepat agar Lebih Terarah</title>
 				<link>https://aminsbd.web.id/posts/6-tips-memilih-formasi-cpns-2027-yang-tepat-agar-lebih-terarah/</link>
@@ -222,13 +222,6 @@
 				<pubDate>Sat, 10 Oct 2026 19:57:00 +0700</pubDate>
 				<guid>https://aminsbd.web.id/posts/update-jadwal-seleksi-pppk-2027-periode-1-dan-2/</guid>
 				<description>&lt;h1 id=&#34;update-jadwal-seleksi-pppk-2027-periode-1-dan-2&#34;&gt;Update Jadwal Seleksi PPPK 2027 Periode 1 dan 2&lt;/h1&gt;&#xA;&lt;p&gt;Istilah periode 1 dan 2 dapat merujuk pada pembagian tahapan atau gelombang dalam pengadaan tertentu. Jadwal seleksi PPPK 2027 harus dikonfirmasi lewat pengumuman resmi; jangan menganggap pola periode sebelumnya pasti terulang.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cara-membedakan-jadwal-dan-perkiraan&#34;&gt;Cara membedakan jadwal dan perkiraan&lt;/h2&gt;&#xA;&lt;p&gt;Pastikan pengumuman menyebut tahun, instansi, kategori pelamar, serta tahapan yang dimaksud. Jadwal pendaftaran berbeda dari jadwal seleksi kompetensi dan pengumuman hasil. Periksa juga apakah informasi merupakan jadwal nasional atau hanya berlaku bagi instansi tertentu.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Tentang Saya</title>
-				<link>https://aminsbd.web.id/posts/about-me/</link>
-				<pubDate>Thu, 08 Oct 2026 13:18:26 +0700</pubDate>
-				<guid>https://aminsbd.web.id/posts/about-me/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Sebuah Project gabut dari saya, dimana blog ini dibuat dengan menggunakan platform static site generator bernama HUGO.&lt;/p&gt;&#xA;&lt;p&gt;Dengan harapan, ada yang bisa dikembangkan dari platform tersebut.&lt;/p&gt;&#xA;&lt;p&gt;Untuk menghubungi saya, Anda dapat mengunjungi Instagram saya &lt;a href=&#34;https://www.instagram.com/aminsbd/?&#34;&gt;Disini&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Best Regard, Amin SBD&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
